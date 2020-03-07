@@ -44,8 +44,10 @@ user-item-interactions.csv - file that contains the raw data for every user inte
 ## Running the code
 
 Installations required before running the code:
-
 - no external libraries are required for installation
+
+Folder structure:
+- Place all the test files, data files and the jupyter notebook from the repo into a single folder and then run the notebook
 
 ## Results
 Rank based recommendations are fairly straight forward for recommending it to both existing as well as new users.
