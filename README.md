@@ -1,5 +1,5 @@
 # Article-Recommendations-with-IBM
-Recommendation system for users on the IBM Platform for articles based on top n ranking, collaborative filtering and latent features
+Recommendation system for users on the IBM Watson Studio Platform for articles based on top n ranking, collaborative filtering and latent features
 
 # Table of Contents
 1. Project Motivation
